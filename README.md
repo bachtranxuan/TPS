@@ -11,6 +11,6 @@ Data descriptions:
 Requirements:
 *	python 2.7
 
-Command:
- 	python run_Streaming.py [Training file] [Setting file] [Model folder] [Testing folder] [Prior file].
-	Example: python2 run_Streaming.py train.txt setting.txt ./model/TMN . prior.glove.200d.txt.
+Run the demo:
+*	python run_Streaming.py [Training file] [Setting file] [Model folder] [Testing folder] [Prior file].
+*	Example: python2 run_Streaming.py train.txt setting.txt ./model/TMN . prior.glove.200d.txt.
