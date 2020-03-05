@@ -1,10 +1,10 @@
 # TPS
 This is an implementation of Dynamic transformation of prior knowledge into Bayesian models for data streams.
 
-Data descriptions: \n
-    Training file: In the bag of words format: \n
-        N index1:count1 index2:count2 ... indexN:countN \n
-    Testing folder: E.g ./model/TMN.\n
+Data descriptions: \
+    Training file: In the bag of words format: \
+        N index1:count1 index2:count2 ... indexN:countN \
+    Testing folder: E.g ./model/TMN.\
     Setting file: E.g setting.txt. \n
     Prior file: E.g: prior.glove.200d.txt.\n
 
