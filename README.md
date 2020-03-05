@@ -13,4 +13,4 @@ Requirements:
 
 Run the demo:
 *	python run_Streaming.py [Training file] [Setting file] [Model folder] [Testing folder] [Prior file].
-*	Example: python2 run_Streaming.py train.txt setting.txt ./model/TMN . prior.glove.200d.txt.
+*	Example: python2 run_Streaming.py data/train.txt data/setting.txt data/result data data/prior.glove.200d.txt.
