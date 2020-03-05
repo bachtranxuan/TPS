@@ -2,8 +2,8 @@
 This is an implementation of Dynamic transformation of prior knowledge into Bayesian models for data streams.
 
 Data descriptions: \
-    >Training file: In the bag of words format: \
-     >>N index1:count1 index2:count2 ... indexN:countN \
+>	Training file: In the bag of words format: \
+>>	N index1:count1 index2:count2 ... indexN:countN \
     >Testing folder: E.g ./model/TMN.\
     >Setting file: E.g setting.txt. \
     >Prior file: E.g: prior.glove.200d.txt.\
