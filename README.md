@@ -2,11 +2,10 @@
 This is an implementation of Dynamic transformation of prior knowledge into Bayesian models for data streams.
 
 Data descriptions: 
-*	Training file: In the bag of words format: 
-	N index1:count1 index2:count2 ... indexN:countN 
-*	Testing folder: E.g ./model/TMN.
-*	Setting file: E.g setting.txt. 
-*	Prior file: E.g: prior.glove.200d.txt.
+*	Training file, we used the bag of words format.
+*	Testing folder (E.g data).
+*	Setting file (E.g data/setting.txt). 
+*	Prior file, includes V lines which V is the number of word of set vocab. Each line is a representation of word such as w2v (E.g: data/prior.glove.200d.txt).
 
 Requirements:
 *	python 2.7
