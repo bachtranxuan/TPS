@@ -1,7 +1,7 @@
 # TPS
 This is an implementation of Dynamic transformation of prior knowledge into Bayesian models for data streams.
 
-Data descriptions: 
+\section{Data descriptions}
 *	Training file, we used the bag of words format.
 *	Testing folder (E.g data).
 *	Setting file (E.g data/setting.txt). 
