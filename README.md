@@ -29,8 +29,8 @@ python run_Streaming.py data/train.txt data/setting.txt data/result data data/pr
 ## Result
 We compare our model with four state-of-the-art base-lines:
 SVB ([Broderick et al., 2013](https://arxiv.org/pdf/1307.6769.pdf)), PVB ([McInerney et al.,  2015](https://arxiv.org/pdf/1507.05253.pdf)), SVP-PP ([Masegosa et al., 2017](http://proceedings.mlr.press/v70/masegosa17a/masegosa17a.pdf)) and KPS ([Duc, Anh Nguyen et al., 2017](https://link.springer.com/chapter/10.1007/978-3-319-57529-2_20)).Log predictive probability ([LPP](http://jmlr.org/papers/v14/hoffman13a.html))  and Normalized pointwise mutual information ([NPMI](https://www.aclweb.org/anthology/E14-1056/))
-![Log predictive probability](./figures/perplexities.png "Log predictive probability")
-![Normalized pointwise mutual information](./figures/npmi.png "Normalized pointwise mutual information")
+![Log predictive probability](./figures/perplexities.png =250x150)
+![Normalized pointwise mutual information](./figures/npmi.png =250x150)
 Some topics are learned from data
 ```
 Military: war army naval navy commander command military forces air ship.
