@@ -28,7 +28,7 @@ python run_Streaming.py data/train.txt data/setting.txt data/result data data/pr
 *	Prior file, includes V lines which V is the number of word of set vocab. Each line is a representation of word such as w2v (E.g: data/prior.glove.200d.txt).
 ## Model
 Graphical representation for TPS is illustrated below
-<img src="figures/model.png" align="middle" height="450px" width="500px" >
+<img src="figures/model.png" alt="centered image" align="middle" height="450px" width="500px" >
 ## Result
 We compare our model with four state-of-the-art base-lines:
 SVB ([Broderick et al., 2013](https://arxiv.org/pdf/1307.6769.pdf)), PVB ([McInerney et al.,  2015](https://arxiv.org/pdf/1507.05253.pdf)), SVP-PP ([Masegosa et al., 2017](http://proceedings.mlr.press/v70/masegosa17a/masegosa17a.pdf)) and KPS ([Duc, Anh Nguyen et al., 2017](https://link.springer.com/chapter/10.1007/978-3-319-57529-2_20)).Log predictive probability ([LPP](http://jmlr.org/papers/v14/hoffman13a.html))  and Normalized pointwise mutual information ([NPMI](https://www.aclweb.org/anthology/E14-1056/))
