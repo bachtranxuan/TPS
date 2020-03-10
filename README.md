@@ -25,7 +25,7 @@ python run_Streaming.py data/train.txt data/setting.txt data/result data data/pr
 *	Training file, we used the bag of words format. (E.g data/train.txt)
 *	Testing folder, including one or more pair file (part_1, part_2). Each document in the test set is divided randomly into two disjoint part ![formula](https://render.githubusercontent.com/render/math?math=w_{obs}) (part_1) and ![formula](https://render.githubusercontent.com/render/math?math=w_{ho}) (part_2) with a ratio of 4:1. (E.g data).
 *	Setting file contains the value of parameters (hyperparameter) of the model such as alpha (hyperparameter of the model), n_topics (number of the topic), learning_rate (learning rate in gradient descent algorithm) .... (E.g data/setting.txt). 
-*	Prior file, includes V lines which V is the number of word of set vocab. Each line is a representation of word such as w2v which was pre-trained from 6 billion tokens of Wikipedia2014 and Gigaword5 ([JeffreyPennington., 2014](https://nlp.stanford.edu/projects/glove/)) (E.g: data/prior.glove.200d.txt).
+*	Prior file, includes V lines which V is the number of word of set vocab. Each line is a representation of word such as w2v which was pre-trained from 6 billion tokens of Wikipedia2014 and Gigaword5 ([JeffreyPennington et al., 2014](https://nlp.stanford.edu/projects/glove/)) (E.g: data/prior.glove.200d.txt).
 ## Model
 Graphical representation for TPS is illustrated below
 \
