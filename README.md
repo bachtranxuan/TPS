@@ -55,7 +55,7 @@ SVB ([Broderick et al., 2013](https://arxiv.org/pdf/1307.6769.pdf)), PVB ([McIne
 Some topics are learned from data
 ```
 | Topic\word  |   
-|:-----------:|------------|------------|------------|------------|------------|------------|-------------|------------|------------|------------|
+|:-----------:|------------|------------|------------|------------|------------|------------|-------------|------------|------------|-----------|
 | Military    |    war     |    army    |   naval    |    navy    |  commader  |   commad   |   military  |   forces   |    air     |  ship     |
 | Music       |  music     |   musical  |   piano    |   songs    |  composer  | orchestral | instruments |  orchestra |   vocal    |  sound    |
 ``` 
