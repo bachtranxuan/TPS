@@ -1,7 +1,7 @@
 
 
 # TPS
-This is an implementation of Dynamic transformation of prior knowledge into Bayesian models for data streams.
+This is an implementation of [Dynamic transformation of prior knowledge into Bayesian models for data streams](link).
 
 Some contribution of our framework
 *	We propose a novel framework called Dynamic transformation of prior knowledge into Bayesian models for data streams (TPS) which is a streaming learning framework that enables the incorporation of the prior knowledge of different forms into a base Bayesian model for data streams.
