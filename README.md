@@ -62,6 +62,11 @@ Some topics are learned from data
 ## Citation
 if you find that TPS is useful for your research, please citing:
 ```
-cite
+@article{*,
+  title={Dynamic transformation of prior knowledge into Bayesian models for data streams},
+  author={*},
+  journal={arXiv preprint arXiv},
+  year={2020}
+}
 ```
 
