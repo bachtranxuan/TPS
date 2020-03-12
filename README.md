@@ -28,7 +28,7 @@ Example
 python run_Streaming.py data/train.txt data/setting.txt data/result data data/prior.glove.200d.txt.
 ```
 ## Data descriptions
-Data for training consists of an external knowledge graph and a set of documents.
+Data for training consists of an external knowledge and a set of documents.
 *	We use the bag-of-words model to represent documents. Each document is represented by a sparse vector of word counts. Data ís saved in a file (data/train.txt) in which each row is a document representation in form:
 ```
 	[M] [term_id1]:[count] [term_id2]:[count] ... [term_idN]:[count]
