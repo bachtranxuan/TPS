@@ -53,8 +53,7 @@ We use log predictive probability ([LPP](http://jmlr.org/papers/v14/hoffman13a.h
 
 ## Result
 We compare our model with four state-of-the-art base-lines:
-SVB ([Broderick et al., 2013](https://arxiv.org/pdf/1307.6769.pdf)), PVB ([McInerney et al.,  2015](https://arxiv.org/pdf/1507.05253.pdf)), SVP-PP ([Masegosa et al., 2017](http://proceedings.mlr.press/v70/masegosa17a/masegosa17a.pdf)) and KPS ([Duc, Anh Nguyen et al., 2017](https://link.springer.com/chapter/10.1007/978-3-319-57529-2_20)). We conduct intensive experiments with several scenarios that are described more explicitly in the paper. Here are some results.(https://www.aclweb.org/anthology/E14-1056/))
-
+SVB ([Broderick et al., 2013](https://arxiv.org/pdf/1307.6769.pdf)), PVB ([McInerney et al.,  2015](https://arxiv.org/pdf/1507.05253.pdf)), SVP-PP ([Masegosa et al., 2017](http://proceedings.mlr.press/v70/masegosa17a/masegosa17a.pdf)) and KPS ([Duc, Anh Nguyen et al., 2017](https://link.springer.com/chapter/10.1007/978-3-319-57529-2_20)). We conduct intensive experiments with several scenarios that are described more explicitly in the paper. Here are some results.
 ![Log predictive probability](./figures/perplexities.png)
 ![Normalized pointwise mutual information](./figures/npmi.png)
 
