@@ -6,9 +6,10 @@ This is an implementation of [Dynamic transformation of prior knowledge into Bay
 Some contribution of our framework:
 *	TPS is able to convert any existing batch learning Bayesian models to streaming learning Bayesian models by reusing local inference steps.
 *	TPS is able to use prior knowledge in different forms by learning a mapping function to transform the prior into the desired form.
-*	Experimental results on two case studies with [LDA](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf), [NB]() show that TPS is outperform state-of-the-art streaming learing framwork.
+*	Experimental results on two case studies with [LDA](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf), [NB]() show that TPS outperforms state-of-the-art streaming learning framework.
 
 In this implementation, we illustrate a case study for TPS with LDA as the based-model.
+![model](./figures/model.png)
 
 ## Installation
 1. Clone the repository
